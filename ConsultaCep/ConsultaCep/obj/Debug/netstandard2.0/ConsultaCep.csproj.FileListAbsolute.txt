@@ -1,0 +1,13 @@
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\bin\Debug\netstandard2.0\ConsultaCep.deps.json
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\bin\Debug\netstandard2.0\ConsultaCep.dll
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\bin\Debug\netstandard2.0\ref\ConsultaCep.dll
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\bin\Debug\netstandard2.0\ConsultaCep.pdb
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\obj\Debug\netstandard2.0\ConsultaCep.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\obj\Debug\netstandard2.0\ConsultaCep.AssemblyInfo.cs
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\obj\Debug\netstandard2.0\ConsultaCep.dll
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\obj\Debug\netstandard2.0\ref\ConsultaCep.dll
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\obj\Debug\netstandard2.0\ConsultaCep.pdb
+C:\Users\mathe\source\repos\ConsultaCep\ConsultaCep\ConsultaCep\obj\Debug\netstandard2.0\ConsultaCep.csprojAssemblyReference.cache

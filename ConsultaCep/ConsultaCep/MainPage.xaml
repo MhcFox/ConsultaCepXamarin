@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="White"
+             x:Class="ConsultaCep.MainPage">
+
+    <StackLayout   VerticalOptions="StartAndExpand" Padding="10" >
+        <Image Source="gps.jpg"/>
+        <Label Text="Pesquise seu endereço" 
+           HorizontalOptions="Center"
+           FontSize="Large"    
+           VerticalOptions="CenterAndExpand" />
+
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Entry  x:Name="TxtCep" Grid.Column="0" Grid.Row="0" Placeholder="Digite o cep" />
+            <Button x:Name="btnCep" Clicked="btnCep_Clicked"   Grid.Column="1" Grid.Row="0" Text="Pesquisar"  />
+            <Entry x:Name="txtRua" Grid.Column="0" Grid.Row="1" Placeholder="Rua" IsEnabled="False" />
+            <Entry x:Name="txtBairro" Grid.Column="1" Grid.Row="1" Placeholder="Bairro"  IsEnabled="False"/>
+            <Entry x:Name="txtCidade" Grid.Column="0" Grid.Row="2" Placeholder="Cidade" IsEnabled="False"/>
+            <Entry x:Name="txtUf" Grid.Column="1" Grid.Row="2"  Placeholder="UF" IsEnabled="False"/>
+        </Grid>
+
+    </StackLayout>
+
+
+</ContentPage>
